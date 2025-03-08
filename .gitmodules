@@ -1,0 +1,21 @@
+[submodule "RZP/AudioGraph/src/libs/AudioFile"]
+	path = src/libs/AudioFile
+	url = https://github.com/adamstark/AudioFile
+[submodule "RZP/AudioGraph/src/libs/imgui-cmake/imgui"]
+	path = src/libs/imgui-cmake/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "RZP/AudioGraph/src/libs/ImGuiFileDialog-cmake/ImGuiFileDialog"]
+	path = src/libs/ImGuiFileDialog-cmake/ImGuiFileDialog
+	url = https://github.com/aiekick/ImGuiFileDialog
+[submodule "RZP/AudioGraph/src/libs/glfw"]
+	path = src/libs/glfw
+	url = https://github.com/glfw/glfw
+[submodule "RZP/AudioGraph/src/libs/imgui-node-editor-cmake/imgui-node-editor"]
+	path = src/libs/imgui-node-editor-cmake/imgui-node-editor
+	url = https://github.com/thedmd/imgui-node-editor
+[submodule "RZP/AudioGraph/src/libs/implot-cmake/implot"]
+	path = src/libs/implot-cmake/implot
+	url = https://github.com/epezent/implot
+[submodule "RZP/AudioGraph/src/libs/rtaudio"]
+	path = src/libs/rtaudio
+	url = https://github.com/thestk/rtaudio

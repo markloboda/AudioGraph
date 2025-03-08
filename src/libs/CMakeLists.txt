@@ -1,0 +1,10 @@
+set(RTAUDIO_STATIC_MSVCRT false)
+
+add_subdirectory(rtaudio)
+add_subdirectory(glad)
+add_subdirectory(glfw)
+add_subdirectory(imgui-cmake)
+add_subdirectory(imgui-node-editor-cmake)
+add_subdirectory(implot-cmake)
+add_subdirectory(AudioFile)
+add_subdirectory(ImGuiFileDialog-cmake)
